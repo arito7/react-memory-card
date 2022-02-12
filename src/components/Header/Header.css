@@ -1,0 +1,16 @@
+.header-wrapper {
+  width: 100%;
+  display: grid;
+  color: #fefefe;
+  background-color: #4a5ab3;
+  justify-items: center;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+.header-wrapper > .title {
+  text-align: start;
+  max-width: 800px;
+}
