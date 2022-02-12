@@ -10,8 +10,6 @@
 .score-wrapper {
   display: grid;
   background-color: #fefefe;
-  margin-top: 1rem;
-  padding: 0.25rem 0;
   width: min(100%, 800px);
   border-radius: 0.5rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
