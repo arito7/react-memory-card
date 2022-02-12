@@ -1,0 +1,8 @@
+.cards-container {
+  display: grid;
+  max-width: 800px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 1rem;
+  padding-top: 1rem;
+}
