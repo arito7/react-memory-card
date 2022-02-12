@@ -1,0 +1,24 @@
+.score-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.score-wrapper {
+  display: grid;
+  background-color: #fefefe;
+  margin-top: 1rem;
+  padding: 0.25rem 0;
+  width: min(100%, 800px);
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.score-wrapper > p {
+  padding: 0.25rem 2rem;
+}
