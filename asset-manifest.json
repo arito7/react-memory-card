@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cv-project/static/css/main.19966e2d.css",
-    "main.js": "/cv-project/static/js/main.194e1812.js",
-    "static/media/barrel.png": "/cv-project/static/media/barrel.818d500eb917759dda9b.png",
-    "static/media/key.png": "/cv-project/static/media/key.44362f1ec84319d8c50c.png",
-    "static/media/pizza.png": "/cv-project/static/media/pizza.99f7b3a29febc59b63c8.png",
-    "static/media/cake.png": "/cv-project/static/media/cake.e19bcc54c49471e8f067.png",
-    "static/media/bones.png": "/cv-project/static/media/bones.b23608731916a1413bb9.png",
-    "static/media/paper.png": "/cv-project/static/media/paper.5b91ab0e086cb6d0ed67.png",
-    "static/media/logs.png": "/cv-project/static/media/logs.f30dddc3793b64c60dad.png",
-    "static/media/banana.png": "/cv-project/static/media/banana.7871d9974b8bca94c221.png",
-    "static/media/lamp.png": "/cv-project/static/media/lamp.40529b0d77e2a09bd889.png",
-    "static/media/pie.png": "/cv-project/static/media/pie.e80cdde49213aadfdd4f.png",
-    "static/media/beer.png": "/cv-project/static/media/beer.d1a8142bf3a0a6388e1d.png",
-    "static/media/gem.png": "/cv-project/static/media/gem.1ce0a956f82cef288f34.png",
-    "index.html": "/cv-project/index.html",
-    "main.19966e2d.css.map": "/cv-project/static/css/main.19966e2d.css.map",
-    "main.194e1812.js.map": "/cv-project/static/js/main.194e1812.js.map"
+    "main.css": "/react-memory-card/static/css/main.19966e2d.css",
+    "main.js": "/react-memory-card/static/js/main.abf15b12.js",
+    "static/media/barrel.png": "/react-memory-card/static/media/barrel.818d500eb917759dda9b.png",
+    "static/media/key.png": "/react-memory-card/static/media/key.44362f1ec84319d8c50c.png",
+    "static/media/pizza.png": "/react-memory-card/static/media/pizza.99f7b3a29febc59b63c8.png",
+    "static/media/cake.png": "/react-memory-card/static/media/cake.e19bcc54c49471e8f067.png",
+    "static/media/bones.png": "/react-memory-card/static/media/bones.b23608731916a1413bb9.png",
+    "static/media/paper.png": "/react-memory-card/static/media/paper.5b91ab0e086cb6d0ed67.png",
+    "static/media/logs.png": "/react-memory-card/static/media/logs.f30dddc3793b64c60dad.png",
+    "static/media/banana.png": "/react-memory-card/static/media/banana.7871d9974b8bca94c221.png",
+    "static/media/lamp.png": "/react-memory-card/static/media/lamp.40529b0d77e2a09bd889.png",
+    "static/media/pie.png": "/react-memory-card/static/media/pie.e80cdde49213aadfdd4f.png",
+    "static/media/beer.png": "/react-memory-card/static/media/beer.d1a8142bf3a0a6388e1d.png",
+    "static/media/gem.png": "/react-memory-card/static/media/gem.1ce0a956f82cef288f34.png",
+    "index.html": "/react-memory-card/index.html",
+    "main.19966e2d.css.map": "/react-memory-card/static/css/main.19966e2d.css.map",
+    "main.abf15b12.js.map": "/react-memory-card/static/js/main.abf15b12.js.map"
   },
   "entrypoints": [
     "static/css/main.19966e2d.css",
-    "static/js/main.194e1812.js"
+    "static/js/main.abf15b12.js"
   ]
 }
